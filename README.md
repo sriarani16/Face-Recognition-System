@@ -92,11 +92,11 @@ The recognition system:
 
 ### Face Detection
 
-![Face Detection](screenshots/face_detection.png)
+![Face Detection](face_detection.png)
 
 ### Face Recognition
 
-![Face Recognition](screenshots/face_recognition.png)
+![Face Recognition](face_recognition.png)
 
 ---
 
